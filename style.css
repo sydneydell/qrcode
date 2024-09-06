@@ -12,7 +12,7 @@ body{
 
 .icon{
     outline: 50px solid var(--White);
-    text-align: center;
+    align-items: center;
 }
 
 .attribution{
